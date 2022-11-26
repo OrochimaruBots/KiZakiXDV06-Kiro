@@ -1,11 +1,11 @@
 {
- "name": "-",
- "description": "Whatsapp Using Lib Baileys Multi Device",
- "version": "1.0.0",
+ "name": "Kiro API",
+ "description": "Seurity System Kiro API",   // Buat Pengamanan SSH
+ "version": "1.0.1",
  "main": "index.js",
  "type": "commonjs",
  "scripts": {
-  "start": "node index"
+  "start": "node index"   // npm start --force
  },
  "keywords": [
   "termux",
@@ -16,7 +16,10 @@
   "baileys-md",
   "bot",
   "bot-md",
-  "multi-device"
+  "multi-device",
+  "kiroapi",
+  "sshprotection",
+  "kirofyzu"
  ],
  "author": "-",
  "license": "MIT",
@@ -85,6 +88,6 @@
   "unofficial-carbon-now": "^1.0.6",
   "yargs": "^17.2.1",
   "xfarr-api": "^2.0.0",
-  "ytsearch": "^2.10.2"
+  "ytsearch": "^1.0.0"
  }
 }
